@@ -1,6 +1,6 @@
 ### Hi, I'm Shaan
 
-BBA Business Analytics student at Lovely Professional University.  
+BBA Business Analytics student.  
 I work with data to understand business problems and support better decisions.
 
 **Currently focused on**
