@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi, I'm Shaan
 
-<!--
-**shaan-xionis/shaan-xionis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BBA Business Analytics student at Lovely Professional University.  
+I work with data to understand business problems and support better decisions.
 
-Here are some ideas to get you started:
+**Currently focused on**
+- Building practical analytics projects
+- Strengthening skills in Excel, SQL, Python & Power BI
+- Understanding how businesses use data and financial metrics
+- Exploring paths in Business Analytics, Finance, and Data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech I use**
+`Excel` `SQL` `Python` `Power BI` `Pandas` `Git`
+
+**Portfolio**  
+→ [Shaan](https://github.com/shaan-xionis/Shaan) — projects and learning work
+
+---
+
+Building skills. Building projects. Building toward a career in analytics and finance.
